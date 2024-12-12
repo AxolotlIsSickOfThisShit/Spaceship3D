@@ -1,2 +1,5 @@
 # Spaceship3D
-A project for school.
+
+---
+
+A 3D spaceship sim coded in JavaScript.
